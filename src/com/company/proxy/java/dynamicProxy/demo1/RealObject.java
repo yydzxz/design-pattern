@@ -1,6 +1,8 @@
-package com.company.proxy.java.dynamicProxy;
+package com.company.proxy.java.dynamicProxy.demo1;
 
-public class RealObject implements Interface{
+import com.company.proxy.java.dynamicProxy.demo1.Interface;
+
+public class RealObject implements Interface {
 
     @Override
     public void doSomething() {

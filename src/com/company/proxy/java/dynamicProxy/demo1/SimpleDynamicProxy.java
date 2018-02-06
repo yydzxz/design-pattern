@@ -1,4 +1,8 @@
-package com.company.proxy.java.dynamicProxy;
+package com.company.proxy.java.dynamicProxy.demo1;
+
+import com.company.proxy.java.dynamicProxy.demo1.DynamicProxyHandler;
+import com.company.proxy.java.dynamicProxy.demo1.Interface;
+import com.company.proxy.java.dynamicProxy.demo1.RealObject;
 
 import java.lang.reflect.Proxy;
 
